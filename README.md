@@ -32,7 +32,7 @@ conda activate powerbi
 ```
 This switches to my named conda environment
 <img src="./images/conda_activate.png" alt="activate conda environment" height=400>
-Now, with the selected environment activated, install packages into the environment using **PIP*
+Now, with the selected environment activated, install packages into the environment using **PIP**
 ```
 pip install <package name>
 
